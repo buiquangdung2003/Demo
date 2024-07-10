@@ -1,0 +1,2 @@
+print("them ghe so pha");
+print("them may dieu hoa");
